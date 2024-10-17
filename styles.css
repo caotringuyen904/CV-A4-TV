@@ -1,0 +1,138 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #cbe7fa;
+}
+
+.container {
+    width: 210mm;
+    height: auto;
+    padding: 20mm;
+    background: #fff;
+    box-shadow: 0 0 5mm rgba(0,0,0,0.1);
+    margin: auto;
+    box-sizing: border-box;
+}
+
+/* header {
+    text-align: center;
+    margin-bottom: 20px;
+} */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 8px;
+}
+
+.header-left {
+    flex: 1;
+}
+
+.header-right {
+    flex-shrink: 0;
+}
+
+.header-right img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit:contain;
+    position: relative;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24pt;
+}
+
+header h4 {
+    margin: 0;
+    font-size: 12pt;
+}
+
+h4 p {
+    font-size: 10pt;
+    margin: 5px 0 0;
+}
+
+section {
+    margin-bottom: 15px;
+}
+
+/* section h2 {
+    font-size: 14pt;
+    border-bottom: 2px solid #000;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+} */
+
+section .obj,h2 {
+    font-size: 14pt;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+
+section h2:after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #000;
+    margin-left: 10px;
+}
+
+.cert {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.cert  {
+   margin: 0;
+}
+
+.cert p {
+    margin-right: 20px;
+}
+
+.job, .school, .project {
+    margin-bottom: 15px;
+}
+
+.job h3, .school h3, .project h3 {
+    font-size: 12pt;
+    margin: 0 0 5px;
+}
+
+.job p, .school p, .project p {
+    margin: 0 0 5px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.projects .project .h3-tiltle {
+    margin-top: 20px;
+}
+
+.projects .project div ul {
+
+}
