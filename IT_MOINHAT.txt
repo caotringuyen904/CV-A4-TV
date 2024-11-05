@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV-A4</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="header-left">
+                <h1>NGUYEN CAO TRI</h1>
+                <p>
+                    <i class="fas fa-phone"></i> 09 3838 0094 <br>
+                    <!-- <i class="fas fa-birthday-cake"></i> 23/06/1994<br /> -->
+                    <i class="fas fa-map-marker-alt"></i> Gò Vấp, Hồ Chí Minh<br />
+                    <i class="fas fa-envelope"></i> caotri.nguyen.904@gmail.com <br />
+                    <i class="fab fa-linkedin"></i>
+                    <a
+                        href="https://www.linkedin.com/in/tri-nguyen-cao-852a83239/">linkedin.com/in/tri-nguyen-cao</a><br />
+                    <i class="fab fa-github"></i>
+                    <a href="https://github.com/caotringuyen904">github.com/caotringuyen</a>
+                </p>
+            </div>
+            <div class="header-right">
+                <img src="./asset/11.jpg" />
+            </div>
+        </header>
+        <section class="objective">
+            <h2 class="obj">MỤC TIÊU CÔNG VIỆC</h2>
+            <p>
+                Mục tiêu ngắn hạn: học hỏi kinh nghiệm và kiến thức từ các chuyên gia trong lĩnh vực.
+            </p>
+            <p> Về lâu dài, mục tiêu của mình là không ngừng học hỏi, cải thiện và đóng góp vào sự phát triển của công
+                ty.
+            </p>
+        </section>
+        <section style="margin-top: 30px" class="education">
+            <h2>HỌC VẤN</h2>
+            <div class="school">
+                <div class="cert">
+                    <p><strong>ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐHQG TP. HỒ CHÍ MINH</strong></p>
+                    <p style="font-size: smaller;">01/2021 - 09/2024</p>
+                </div>
+                <p>Ngành học: Công nghệ & Kỹ thuật thông tin</p>
+                <p>Điểm trung bình: 8.1/10</p>
+            </div>
+            <!-- <div class="school">
+                <div class="cert">
+                    <p><strong>TRƯỜNG CÔNG NGHỆ MINDX</strong></p>
+                    <p style="font-size: smaller">01/2023 - 01/2024</p>
+                </div>
+                <p>Ngành học: Lập trình Web Fullstack</p>
+            </div> -->
+
+            <!-- <div class="school">
+                <div class="cert">
+                    <p><strong>ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH</strong></p>
+                    <p style="font-size: smaller">2013 - 09/2017</p>
+                </div>
+                <p>Ngành học: Công nghệ Môi trường</p>
+            </div> -->
+        </section>
+
+        <!-- <section class="experience" style="margin-top: 30px">
+            <h2>KINH NGHIỆM</h2>
+            <div class="cert">
+                <p>CÔNG TY XÂY DỰNG NAGECCO</p>
+                <p style="font-size:smaller">05/2020 - 05/2022</p>
+            </div>
+
+            <ul>
+                <li>Vị trí: Giám sát xây dựng.</li>
+                <li>Dự án: Khu phức hợp Showroom KIA & MAZDA - Biên Hòa, Đồng Nai.</li>
+                <li>Vai trò: Giám sát xây dựng và nghiệm thu hệ thống cấp thoát nước của dự án.</li>
+            </ul>
+
+            <div class="cert">
+                <p>CÔNG TY MÔI TRƯỜNG TRÍ LÂM</p>
+                <p style="font-size:smaller">10/2017 - 03/2019</p>
+            </div>
+            <ul>
+                <li>Vị trí: Nhân viên thiết kế và vận hành kỹ thuật.</li>
+                <li>Dự án: Hệ thống xử lý nước thải 100m3/ngày - Vĩnh Tân, Vĩnh Cửu, Đồng Nai.</li>
+                <li>Vai trò: Thiết kế bản vẽ CAD; định lượng vật liệu; hỗ trợ nghiệm thu và xây dựng dự án; vận hành quy
+                    trình xử lý nước thải.</li>
+            </ul>
+
+        </section> -->
+
+        <section style="margin-top: 30px; margin-bottom: 30px;" class="skills">
+            <h2>TÓM TẮT KỸ NĂNG VÀ KIẾN THỨC</h2>
+            <div class="skills-col" style="display: flex; flex-direction: row; justify-content: space-between;">
+                <ul style="width: 200px">
+                    <li>Mạng máy tính:</li> <br><br><br><br>
+                    <li>Ngôn ngữ lập trình:</li>
+                    <li>Thư viện:</li><br>
+                    <li>Quản lý cơ sở dữ liệu:</li>
+                    <li>Quản lý mã nguồn:</li> <br>
+                    <li>Công cụ thiết kế:</li>
+                    <li>Khác:</li> <br><br><br>
+                    <li style="margin-top: 11px;">Tiếng Anh:</li>
+                </ul>
+                <ul style="width: 400px;list-style: none">
+                    <li>- Nắm kiến thức về hệ thống máy tính và mạng <br>
+                        - Hiểu biết về cài đặt và cấu hình các thiết bị như router, switch, access point, và firewall. <br>
+                        - Cài đặt phầm mềm, quản trị website.
+                    </li>
+                    <br>
+                    <li>C++, Java, Javascript, HTML5, CSS.</li>
+                    <li>ReactJS, Redux, TypeScript, NodeJS, Tailwindcss, Bootstrap, AntDesign.</li>
+                    <li>MongoDB, MSSQL Server.</li>
+                    <li>Github, Git</li> <br>
+                    <li>Photoshop, Figma.</li>
+                    <li>- Kinh nghiệm làm việc với API RESTful.</li>
+                    <li>- Hiểu biết về phương pháp OOP.</li>
+                    <li>- Hiểu biết về tối ưu hóa hiệu suất, thiết kế responsive web.</li>
+                    <li>Đọc và hiểu tài liệu, giao tiếp cơ bản.</li>
+                </ul>
+            </div>
+        </section>
+
+
+        <section class="projects">
+            <h2>ĐỒ ÁN HỌC TẬP</h2>
+
+            <div class="project">
+
+                <h3 class="h3-tiltle">TheOldManFood</h3>
+                <div style="margin-bottom: 25px; display: flex; flex-direction: row; justify-content: space-between;">
+                    <ul style="width: 200px;">
+                        <li>Mô tả:</li>
+                        <br />
+                        <li>Công nghệ:</li>
+                        <li>Thành viên:</li>
+                        <li>Triển khai:</li>
+                    </ul>
+                    <ul style="list-style: none">
+                        <li>
+                            TheOldManFood là một trang web giới thiệu thực đơn cho các nhà hàng, bao gồm các tính năng:
+                            tìm kiếm, lọc, giỏ hàng.
+                        </li>
+                        <li>HTML, Javascript, CSS</li>
+                        <li>01</li>
+                        <li>
+                            <a href="https://caotringuyen904.github.io/TheOldManFood/food/index.html">
+                                https://caotringuyen904.github.io/TheOldManFood/</a>
+                        </li>
+                    </ul>
+                </div>
+
+
+                <h3 class="h3-tiltle">Management Users</h3>
+                <div style="margin-bottom: 25px; display: flex; flex-direction: row">
+                    <ul style="width: 300px;">
+                        <li>Mô tả:</li>
+                        <br /><br />
+                        <li>Công nghệ:</li>
+                        <br /><br />
+                        <li>Thành viên:</li>
+                        <li>Triển khai:</li>
+                    </ul>
+                    <ul style="list-style: none">
+                        <li>
+                            Phát triển một ứng dụng web đơn giản để quản lý người dùng, bao gồm các hoạt động: liệt kê
+                            người dùng, thêm người dùng (qua biểu mẫu đăng ký), xóa người dùng, xuất dữ liệu người dùng
+                            (file CSV).
+                        </li>
+                        <li>
+                            - Frontend: ReactJS, HTML5, CSS3<br />
+                            - Backend: NodeJS<br />
+                            - Cơ sở dữ liệu: MongoDB
+                        </li>
+                        <li>01</li>
+                        <li>
+                            <a
+                                href="https://user-mangement-client.vercel.app/">https://user-mangement-client.vercel.app/</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <h3 class="h3-tiltle">Management Bike Store</h3>
+                <div style="display: flex; flex-direction: row">
+                    <ul style="width: 200px;">
+                        <li>Mô tả:</li>
+                        <br />
+                        <li>Công nghệ:</li>
+                        <br /><br />
+                        <li>Thành viên:</li>
+                        <li>Trách nhiệm:</li>
+                        <li>Triển khai:</li>
+                    </ul>
+                    <ul style="list-style: none">
+                        <li>
+                            Bikestore là một ứng dụng desktop quản lý thông tin cửa hàng, bao gồm người dùng, sản phẩm
+                            và xác thực người dùng.
+                        </li>
+                        <li>
+                            - Backend: Java<br />
+                            - Frontend: JavaFX<br />
+                            - Cơ sở dữ liệu: SQL server
+                        </li>
+                        <li>02</li>
+                        <li>Xây dựng giao diện người dùng.</li>
+                        <li>
+                            <a
+                                href="https://github.com/caotringuyen904/AppBikeStore.git">https://github.com/caotringuyen904/AppBikeStore.git</a>
+                        </li>
+                    </ul>
+                </div>
+
+        </section>
+
+        <section class="experience" style="margin-top: 20px;">
+            <h2>SỞ THÍCH CÁ NHÂN</h2>
+            <div class="cert">
+                <ul>
+                    <li>Du lịch, nấu ăn</li>
+                    <li>Thể thao: bóng đá, tennis</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>
