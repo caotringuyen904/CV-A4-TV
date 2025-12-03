@@ -11,7 +11,7 @@ body {
     height: auto;
     padding: 20mm;
     background: #fff;
-    box-shadow: 0 0 5mm rgba(0,0,0,0.1);
+    box-shadow: 0 0 5mm rgba(0, 0, 0, 0.1);
     margin: auto;
     box-sizing: border-box;
 }
@@ -32,6 +32,23 @@ header {
     flex: 1;
 }
 
+.header-left h1 {
+    letter-spacing: 8px;
+ 
+}   
+
+.header-left h5 {
+    letter-spacing: 2.8px;
+
+}   
+
+.header-left h1,
+.header-left h5 {
+    margin: 0;
+    line-height: 1.2;
+    /* giúp khoảng cách chữ nhìn tự nhiên hơn */
+}
+
 .header-right {
     flex-shrink: 0;
 }
@@ -40,9 +57,13 @@ header {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    border: 3px solid #5eaa02;
-    object-fit:contain;
+    border: 4px solid #223A6A;
+    /* object-fit: contain; */
+    object-fit: cover;
     position: relative;
+    object-position: 50% 14%;
+    /* Dịch ảnh: X%, Y% (mặc định là 50% 50%) */
+
 }
 
 header h1 {
@@ -71,7 +92,8 @@ section {
     margin-bottom: 10px;
 } */
 
-section .obj,h2 {
+section .obj,
+h2 {
     font-size: 14pt;
     margin: 0;
     display: flex;
@@ -83,7 +105,7 @@ section h2:after {
     content: "";
     flex: 1;
     height: 1px;
-    background: #5eaa02;
+    background: #223A6A;
     margin-left: 10px;
 }
 
@@ -94,24 +116,30 @@ section h2:after {
     margin-right: 20px;
 }
 
-.cert  {
-   margin: 0;
+.cert {
+    margin: 0;
 }
 
 .cert p {
     margin-right: 20px;
 }
 
-.job, .school, .project {
+.job,
+.school,
+.project {
     margin-bottom: 15px;
 }
 
-.job h3, .school h3, .project h3 {
+.job h3,
+.school h3,
+.project h3 {
     font-size: 12pt;
     margin: 0 0 5px;
 }
 
-.job p, .school p, .project p {
+.job p,
+.school p,
+.project p {
     margin: 0 0 5px;
 }
 
@@ -135,5 +163,28 @@ h2 {
 }
 
 .title-green {
-    color: #5eaa02;
+    color: #223A6A;
+}
+
+
+
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 10px;
+}
+
+li {
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #223A6A; /* hoặc màu navy bạn đang dùng */
+}
+
+ul p {
+  text-align: justify;          /* Căn đều hai bên */
+  text-justify: inter-word;     /* Giãn đều khoảng cách chữ */
+  margin: 4px 0 10px 0;         /* Giảm khoảng cách giữa các đoạn */
+  line-height: 1.6;             /* Tăng độ thoáng dòng */
+  font-size: 15px;              /* Kích thước dễ đọc */
 }

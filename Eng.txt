@@ -44,8 +44,9 @@
                     and process optimization to enhance operational efficiency and deliver greater
                     value to the organization.
                 </p> -->
-                <p>Warehouse & Inventory Control Supervisor focused on accurate stock management, efficient workflows,
-                    and supporting team performance.</p>
+                <p>Motivated Warehouse & Inventory Control professional aiming to grow in operations management, with a
+                    focus on process optimization, inventory accuracy, and team performance to drive operational
+                    excellence.</p>
             </ul>
 
         </section>
@@ -111,9 +112,7 @@
 
                 <ul>
                     <li>Process Optimization & Compliance</li>
-                    <p>Improved warehouse operational efficiency by 20% through process standardization, optimizing
-                        warehouse layout, and proposing the adoption of an automated packing machine to shorten
-                        pick–pack time and reduce manual handling.</p>
+                    <p>Improved warehouse operational efficiency by 20% through process standardization, optimizing warehouse layout, and proposing the adoption of an automated packing machine to shorten pick–pack time and reduce manual handling.</p>
                     <p>Managed VAT invoices, purchase invoices, import documents, customs declaration dossiers, and
                         compliance reports</p>
                     <p>Handled synchronization of inventory and cost data using Sapo and MISA per tax regulations.</p>
@@ -124,8 +123,7 @@
                         performance.</p>
                     <p>Built monthly operation plans, performance reviews, and continuous improvement proposals.</p>
                     <p>Ensured warehouse safety, fire prevention compliance, and asset maintenance.</p>
-                    <p>Prepared periodic reports monthly, including inventory reports, discrepancy analyses, operational
-                        KPIs, data trend insights, and optimization proposals for management review.</p>
+                    <p>Prepared periodic reports monthly, including inventory reports, discrepancy analyses, operational KPIs, data trend insights, and optimization proposals for management review.</p>
 
                 </ul>
 
@@ -189,8 +187,7 @@
             <ul>
                 <p>Strong problem-solving and analytical mindset.</p>
                 <p>Proactive, responsible, detail-oriented.</p>
-                <p>English: Capable of reading and understanding documents, writing professional emails, and developing
-                    internal process documentation.</p>
+                <p>English: Capable of reading and understanding documents, writing professional emails, and developing internal process documentation.</p>
             </ul>
 
         </section>
