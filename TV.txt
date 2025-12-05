@@ -33,7 +33,7 @@
             </div>
         </header>
         <section class="objective">
-            <h2 class="title-green" class="obj">CAREER OBJECTIVE</h2>
+            <h2 class="title-green" class="obj">MỤC TIÊU NGHỀ NGHIỆP</h2>
             <ul>
                 <!-- <p>
                     Warehouse supervisor with 2+ years's experience in e-commerce warehouse management and operational
@@ -55,7 +55,7 @@
 
         </section>
         <section style="margin-top: 30px" class="education">
-            <h2 class="title-green">EDUCATION</h2>
+            <h2 class="title-green">HỌC VẤN</h2>
             <div class="school">
                 <div class="cert">
                     <p class="title-green"><strong>Đại học Công nghệ Thông tin – ĐHQG TP.HCM</strong></p>
@@ -188,7 +188,7 @@
                 <p>Power BI: DAX, xây dựng dashboard, trực quan hóa dữ liệu tồn kho.</p>
             </ul>
 
-            <p class="title-green"><strong>Kỹ năng mềm & Phẩm chất cá nhân</strong></p>
+            <p class="title-green" style="margin-top: 50px;"><strong>Kỹ năng mềm & Phẩm chất cá nhân</strong></p>
             <ul>
                 <p>Tư duy phân tích, tập trung giải quyết vấn đề.</p>
                 <p>Làm việc có trách nhiệm, tỉ mỉ, định hướng kết quả.</p>
