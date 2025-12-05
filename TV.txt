@@ -59,7 +59,7 @@
             <div class="school">
                 <div class="cert">
                     <p class="title-green"><strong>Đại học Công nghệ Thông tin – ĐHQG TP.HCM</strong></p>
-                    <p class="title-green" style="font-size: smaller;">06/2025</p>
+                    <p class="title-green" style="font-size: smaller;">2024</p>
                 </div>
                 <ul>
                     <p>Chuyên nghành: Kỹ thuật hệ thống thông tin</p>
@@ -98,25 +98,27 @@
                     <li>Quản lý vận hành kho</li>
                     <p>Quản lý hoạt động nhập – xuất – tồn cho ~1.500 đơn/ngày trên TikTok, Shopee và kênh offline;
                         khoảng 1.000 SKU (lông mi giả, keo nối mi, phụ kiện).</p>
-                    <p>Đảm bảo 98%+ độ chính xác tồn kho, đối soát dữ liệu WMS/Sapo với kiểm kê thực tế; giảm sai lệch
-                        15%.</p>
-                    <p>Duy trì tỷ lệ giao hàng đúng hạn theo tiêu chuẩn các sàn TMĐT trên 90%.</p>
+                    <p>Đảm bảo độ chính xác tồn kho, thực hiện đối soát dữ liệu WMS/Sapo với kiểm kê thực tế và xử lý
+                        sai lệch kịp thời.</p>
+                    <p>Duy trì tỷ lệ giao hàng đúng hạn theo tiêu chuẩn của các sàn TMĐT.</p>
                 </ul>
 
                 <ul>
                     <li>Kiểm soát tồn kho & Chi phí</li>
-                    <p>Lập kế hoạch đặt hàng theo theo định mức cân đối dòng tiền, giúp giảm tồn dư 10%.</p>
-                    <p>Phân tích hàng chậm luân chuyển, đề xuất hành động xử lý, giúp tăng vòng quay tồn kho 12%.</p>
+                    <p>Lập kế hoạch đặt hàng và cân đối tồn kho theo định mức và dòng tiền để hạn chế tồn dư và thiếu
+                        hàng.</p>
+                    <p>Phân tích hàng chậm luân chuyển, đề xuất giải pháp xử lý nhằm cải thiện vòng quay tồn kho.</p>
                     <p>Chuẩn hóa dữ liệu (thuộc tính SKU, đơn vị quy đổi, chi tiết giá vốn), đảm bảo đồng bộ dữ liệu
                         giữa WMS và hệ thống kế toán.</p>
                 </ul>
 
                 <ul>
                     <li>Tối ưu quy trình & Tuân thủ các quy định về thuế</li>
-                    <p>Tối ưu hiệu suất vận hành kho 20% bằng cách chuẩn hóa quy trình, cải thiện bố trí mặt bằng kho và
-                        đề xuất đầu tư máy đóng hàng tự động để rút ngắn thời gian pick–pack và giảm thao tác thủ công.
+                    <p>Tối ưu hiệu suất vận hành kho thông qua chuẩn hóa quy trình, cải thiện bố trí mặt bằng và đề xuất
+                        sử dụng máy đóng hàng tự động để rút ngắn thời gian pick–pack và giảm thao tác thủ công.
                     </p>
-                    <p>Quản lý hóa đơn VAT, chứng từ mua hàng, hồ sơ nhập khẩu sản phẩm, tờ khai hải quan.
+                    <p>Có kiến thức về các quy định thuế cơ bản tại Việt Nam; quản lý hóa đơn VAT và chứng từ xuất nhập
+                        khẩu như packing list, invoice, CO/CQ, MSDS, HS code và tờ khai hải quan.
                     </p>
                     <p>Đồng bộ dữ liệu tồn kho – giá vốn giữa Sapo và MISA theo quy định thuế.</p>
                 </ul>
@@ -182,7 +184,7 @@
 
             <p class="title-green"><strong>Phần mềm hệ thống dữ liệu</strong></p>
             <ul>
-                <p>Thành thạo MS Office (Excel nâng cao), Sapo, MISA, VMS, ERP.</p>
+                <p>Thành thạo MS Office, Sapo, MISA, VMS, ERP.</p>
                 <p>Power BI: DAX, xây dựng dashboard, trực quan hóa dữ liệu tồn kho.</p>
             </ul>
 

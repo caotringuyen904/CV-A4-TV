@@ -1,219 +1,222 @@
-<!DOCTYPE html>
-<html lang="vi">
+    <!DOCTYPE html>
+    <html lang="vi">
 
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CV-A4</title>
-    <link rel="stylesheet" href="styles.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-</head>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>CV-A4</title>
+        <link rel="stylesheet" href="styles.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    </head>
 
-<body>
-    <div class="container">
-        <header>
-            <div class="header-left">
-                <h1>NGUYEN CAO TRI</h1>
-                <h5 style="margin-top: 6px;">Inventory Analyst & Warehouse Operations</h5>
-                <p style="margin-top: 20px;">
-                    <!-- <i class="fas fa-birthday-cake"></i> 1994<br /> -->
-                    <i class="fas fa-map-marker-alt">&nbsp;&nbsp;</i>Gò Vấp, Hồ Chí Minh
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <i class="fas fa-phone">&nbsp;</i> 09 3838 0094 <br>
-                    <i style="margin-top: 20px;" class="fas fa-envelope"></i>&nbsp; tringuyen94cao@gmail.com <br />
-                    <!-- <i class="fab fa-linkedin"></i> -->
-                    <!-- <a
-                        href="https://www.linkedin.com/in/tri-nguyen-cao-852a83239/">linkedin.com/in/tri-nguyen-cao</a><br />
-                    <i class="fab fa-github"></i> -->
-                    <!-- <a href="https://github.com/caotringuyen904">github.com/caotringuyen</a> -->
-                </p>
-            </div>
-            <div class="header-right">
-                <img src="./asset/123.jpg" />
-            </div>
-        </header>
-        <section class="objective">
-            <h2 class="title-green" class="obj">CAREER OBJECTIVE</h2>
-            <ul>
-                <!-- <p>
-                    Warehouse supervisor with 2+ years's experience in e-commerce warehouse management and operational
-                    optimization.
-                </p>
-                <p>
-                    To develop a career in operations management, focusing on warehouse management
-                    and process optimization to enhance operational efficiency and deliver greater
-                    value to the organization.
-                </p> -->
-                <p>Motivated Warehouse & Inventory Control professional aiming to grow in operations management, with a
-                    focus on process optimization, inventory accuracy, and team performance to drive operational
-                    excellence.</p>
-            </ul>
-
-        </section>
-        <section style="margin-top: 30px" class="education">
-            <h2 class="title-green">EDUCATION</h2>
-            <div class="school">
-                <div class="cert">
-                    <p class="title-green"><strong>University of Information Technology – Vietnam National University,
-                            HCMC</strong></p>
-                    <p class="title-green" style="font-size: smaller;">06/2025</p>
-                </div>
-                <ul>
-                    <p>Major: Information Systems Engineering Technology</p>
-                    <p>Achievement: Graduated with Distinction</p>
-                </ul>
-            </div>
-            <!-- <div class="school">
-                <div class="cert">
-                    <p><strong>TRƯỜNG CÔNG NGHỆ MINDX</strong></p>
-                    <p style="font-size: smaller">01/2023 - 01/2024</p>
-                </div>
-                <p>Ngành học: Lập trình Web Fullstack</p>
-            </div> -->
-
-            <!-- <div class="school">
-                <div class="cert">
-                    <p><strong>ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH</strong></p>
-                    <p class="title-green" style="font-size: smaller">2017</p>
-                </div>
-                <p>Ngành học: Kỹ Thuật Môi Trường</p>
-                <p>Thành tích: Tốt nghiệp loại khá</p>
-            </div> -->
-        </section>
-
-
-        <section class="experience" style="margin-top: 30px">
-            <h2 class="title-green">WORK EXPERIENCE</h2>
-            <div class="cert">
-                <p class="title-green"><strong>SKYLASH VIETNAM CO., LTD</strong></p>
-                <p class="title-green" style="font-size:smaller">August 2022 – Present</p>
-            </div>
-            <ul>
-                <li style="list-style-type: none;"><strong>Warehouse & Inventory control</strong>
-                </li>
-                <ul>
-                    <li>Operational Management</li>
-                    <p>Managed inbound/outbound warehouse operations supporting ~1,500 daily orders across TikTok,
-                        Shopee, and offline channels; oversaw >1,000 SKUs (eyelashes, adhesives, accessories).</p>
-                    <p>Ensured 98%+ inventory accuracy by reconciling WMS/Sapo data with physical stock; reduced
-                        discrepancies by 15%.</p>
-                    <p>Maintained 97%+ on-time delivery rate across e-commerce platforms.</p>
-                </ul>
-
-                <ul>
-                    <li>Inventory & Cost Control</li>
-                    <p>Proposed and executed replenishment plans aligned with safety stock and cash flow, reducing
-                        overstock by 10%</p>
-                    <p>Conducted slow-moving SKU analysis and implemented action plans, improving stock turnover by 12%.
+    <body>
+        <div class="container">
+            <header>
+                <div class="header-left">
+                    <h1>NGUYEN CAO TRI</h1>
+                    <h5 style="margin-top: 6px;">Inventory Analyst & Warehouse Operations</h5>
+                    <p style="margin-top: 20px;">
+                        <!-- <i class="fas fa-birthday-cake"></i> 1994<br /> -->
+                        <i class="fas fa-map-marker-alt">&nbsp;&nbsp;</i>Gò Vấp, Hồ Chí Minh
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        <i class="fas fa-phone">&nbsp;</i> 09 3838 0094 <br>
+                        <i style="margin-top: 20px;" class="fas fa-envelope"></i>&nbsp; tringuyen94cao@gmail.com <br />
+                        <!-- <i class="fab fa-linkedin"></i> -->
+                        <!-- <a
+                            href="https://www.linkedin.com/in/tri-nguyen-cao-852a83239/">linkedin.com/in/tri-nguyen-cao</a><br />
+                        <i class="fab fa-github"></i> -->
+                        <!-- <a href="https://github.com/caotringuyen904">github.com/caotringuyen</a> -->
                     </p>
-                    <p>Enhanced cost accuracy by standardizing item master data (SKU attributes, unit conversions, cost
-                        records), ensuring consistent valuation across WMS and accounting systems.</p>
-                </ul>
-
+                </div>
+                <div class="header-right">
+                    <img src="./asset/123.jpg" />
+                </div>
+            </header>
+            <section class="objective">
+                <h2 class="title-green" class="obj">CAREER OBJECTIVE</h2>
                 <ul>
-                    <li>Process Optimization & Compliance</li>
-                    <p>Improved warehouse operational efficiency by 20% through process standardization, optimizing warehouse layout, and proposing the adoption of an automated packing machine to shorten pick–pack time and reduce manual handling.</p>
-                    <p>Managed VAT invoices, purchase invoices, import documents, customs declaration dossiers, and
-                        compliance reports</p>
-                    <p>Handled synchronization of inventory and cost data using Sapo and MISA per tax regulations.</p>
+                    <!-- <p>
+                        Warehouse supervisor with 2+ years's experience in e-commerce warehouse management and operational
+                        optimization.
+                    </p>
+                    <p>
+                        To develop a career in operations management, focusing on warehouse management
+                        and process optimization to enhance operational efficiency and deliver greater
+                        value to the organization.
+                    </p> -->
+                    <p>Warehouse & Inventory Control Supervisor focused on accurate stock management, efficient workflows,
+                        and supporting team performance.</p>
                 </ul>
+
+            </section>
+            <section style="margin-top: 30px" class="education">
+                <h2 class="title-green">EDUCATION</h2>
+                <div class="school">
+                    <div class="cert">
+                        <p class="title-green"><strong>University of Information Technology – Vietnam National University,
+                                HCMC</strong></p>
+                        <p class="title-green" style="font-size: smaller;">2024</p>
+                    </div>
+                    <ul>
+                        <p>Major: Information Systems Engineering Technology</p>
+                        <p>Achievement: Graduated with Distinction</p>
+                    </ul>
+                </div>
+                <!-- <div class="school">
+                    <div class="cert">
+                        <p><strong>TRƯỜNG CÔNG NGHỆ MINDX</strong></p>
+                        <p style="font-size: smaller">01/2023 - 01/2024</p>
+                    </div>
+                    <p>Ngành học: Lập trình Web Fullstack</p>
+                </div> -->
+
+                <!-- <div class="school">
+                    <div class="cert">
+                        <p><strong>ĐẠI HỌC CÔNG NGHỆ TP. HỒ CHÍ MINH</strong></p>
+                        <p class="title-green" style="font-size: smaller">2017</p>
+                    </div>
+                    <p>Ngành học: Kỹ Thuật Môi Trường</p>
+                    <p>Thành tích: Tốt nghiệp loại khá</p>
+                </div> -->
+            </section>
+
+
+            <section class="experience" style="margin-top: 30px">
+                <h2 class="title-green">WORK EXPERIENCE</h2>
+                <div class="cert">
+                    <p class="title-green"><strong>SKYLASH VIETNAM CO., LTD</strong></p>
+                    <p class="title-green" style="font-size:smaller">August 2022 – Present</p>
+                </div>
                 <ul>
-                    <li>Leadership & Reporting</li>
-                    <p>Led and trained a warehouse team of 20–25 staff, reinforcing accountability and KPI-driven
-                        performance.</p>
-                    <p>Built monthly operation plans, performance reviews, and continuous improvement proposals.</p>
-                    <p>Ensured warehouse safety, fire prevention compliance, and asset maintenance.</p>
-                    <p>Prepared periodic reports monthly, including inventory reports, discrepancy analyses, operational KPIs, data trend insights, and optimization proposals for management review.</p>
-
-                </ul>
-
-            </ul>
-            <!-- <ul>
-                    <li>Warehouse & Logistics Supervisor – responsible for managing inbound/outbound operations for
-                        ~1,500 daily orders across e-commerce platforms (TikTok, Shopee) and offline channels via Sapo
-                        with ~3,000 SKUs (eyelash
-                        products, adhesives, accessories).</li>
-                    <li>Manage import docs, product labeling compliance, and record-keeping.</li>
-                    <li>Ensure inventory accuracy by reconciling WMS data with physical stock, promptly resolving
-                        discrepancies.</li>
-                    <li>Plan and execute inventory replenishment according to safety stock levels and cash flow
-                        alignment. Report on slow-moving SKUs and recommend sales push strategies.</li>
-                    <li>Supervise team performance, set KPIs, and conduct regular evaluations.</li>
-                    <li>Maintain workplace safety standards, fire prevention compliance, and asset maintenance.</li>
-                    <li>Conduct periodic stocktaking, generate weekly/monthly reports, and propose process improvements.
+                    <li style="list-style-type: none;"><strong>Warehouse & Inventory control</strong>
                     </li>
-                </ul> -->
+                    <ul>
+                        <li>Operational Management</li>
+                        <p>Managed inbound/outbound warehouse operations supporting ~1,500 daily orders across TikTok,
+                            Shopee, and offline channels; oversaw >1,000 SKUs (eyelashes, adhesives, accessories).</p>
+                        <p>Ensured inventory accuracy by reconciling WMS/Sapo data with physical stock counts and resolving
+                            discrepancies promptly.</p>
+                        <p>Maintained on-time delivery performance in line with e-commerce platform standards.</p>
+                    </ul>
 
-            <div class="cert" style="margin-top: 10px">
-                <p class="title-green"><strong>GOLDEN GATE TRADING & SERVICE CO., LTD</strong></p>
-                <p class="title-green" style="font-size:smaller">2020 – March 2022</p>
-            </div>
+                    <ul>
+                        <li>Inventory & Cost Control</li>
+                        <p>Planned purchase orders and balanced stock levels based on demand, safety stock, and cash-flow
+                            considerations to avoid overstock and stockouts.</p>
+                        <p>Analyzed slow-moving items and proposed actionable solutions to improve inventory turnover.
+                        </p>
+                        <p>Enhanced cost accuracy by standardizing item master data (SKU attributes, unit conversions, cost
+                            records), ensuring consistent valuation across WMS and accounting systems.</p>
+                    </ul>
 
-            <ul>
-                <li style="list-style-type: none;"><strong>Assistant Manager - Gogi House (Golden Gate
-                        Group)</strong></li>
-                <ul>
-                    <p>Managed daily restaurant operations ensuring 3S: Stock – Staff – Service.</p>
-                    <p>Recruited, trained, scheduled, and supervised staff to optimize performance.</p>
-                    <p>Monitored cost control, sales, inventory, and food material usage.</p>
-                    <p>Implemented promotional campaigns and collaborated with marketing to boost revenue.</p>
+                    <ul>    
+                        <li>Process Optimization & Compliance</li>
+                        <p>Optimized warehouse operational efficiency through process standardization, improved layout
+                            design, and the proposal of automated packing equipment to reduce manual handling time.</p>
+                        <p>Knowledgeable in basic Vietnamese tax regulations, as well as import–export documentation such as
+                            packing lists, commercial invoices, CO/CQ certificates, MSDS, HS codes, and customs
+                            declarations.</p>
+                        <p>Handled synchronization of inventory and cost data using Sapo and MISA per tax regulations.</p>
+                    </ul>
+                    <ul>
+                        <li>Leadership & Reporting</li>
+                        <p>Led and trained a warehouse team of 20–25 staff, reinforcing accountability and KPI-driven
+                            performance.</p>
+                        <p>Built monthly operation plans, performance reviews, and continuous improvement proposals.</p>
+                        <p>Ensured warehouse safety, fire prevention compliance, and asset maintenance.</p>
+                        <p>Prepared periodic reports monthly, including inventory reports, discrepancy analyses, operational
+                            KPIs, data trend insights, and optimization proposals for management review.</p>
+
+                    </ul>
+
                 </ul>
-            </ul>
+                <!-- <ul>
+                        <li>Warehouse & Logistics Supervisor – responsible for managing inbound/outbound operations for
+                            ~1,500 daily orders across e-commerce platforms (TikTok, Shopee) and offline channels via Sapo
+                            with ~3,000 SKUs (eyelash
+                            products, adhesives, accessories).</li>
+                        <li>Manage import docs, product labeling compliance, and record-keeping.</li>
+                        <li>Ensure inventory accuracy by reconciling WMS data with physical stock, promptly resolving
+                            discrepancies.</li>
+                        <li>Plan and execute inventory replenishment according to safety stock levels and cash flow
+                            alignment. Report on slow-moving SKUs and recommend sales push strategies.</li>
+                        <li>Supervise team performance, set KPIs, and conduct regular evaluations.</li>
+                        <li>Maintain workplace safety standards, fire prevention compliance, and asset maintenance.</li>
+                        <li>Conduct periodic stocktaking, generate weekly/monthly reports, and propose process improvements.
+                        </li>
+                    </ul> -->
 
-        </section>
+                <div class="cert" style="margin-top: 10px">
+                    <p class="title-green"><strong>GOLDEN GATE TRADING & SERVICE CO., LTD</strong></p>
+                    <p class="title-green" style="font-size:smaller">2020 – March 2022</p>
+                </div>
 
-
-        <section class="skills" style="margin-top: 30px; margin-bottom: 30px;">
-            <h2 class="title-green">SKILLS & STRENGTHS</h2>
-
-            <div class="cert" style="margin-top: 10px">
-                <p class="title-green"><strong>Warehouse & Operations</strong></p>
-            </div>
-            <ul>
-                <p>Inventory control & FIFO compliance.</p>
-                <p>Warehouse operations & order fulfillment.</p>
-                <p>Data accuracy & WMS/ERP reconciliation.</p>
-                <p>Inventory analysis (turnover, cycle count accuracy, slow-moving SKUs, overstock,...)</p>
-            </ul>
-
-
-            <p class="title-green"><strong>Technical Skills</strong></p>
-            <ul>
-                <p>Microsoft Office, Sapo, MISA, VMS, ERP.</p>
-                <p>Power BI: DAX modeling, dashboard building, inventory analytics.</p>
-            </ul>
-
-            <p class="title-green"><strong>Soft Skills & Professional Qualities</strong></p>
-            <ul>
-                <p>Strong problem-solving and analytical mindset.</p>
-                <p>Proactive, responsible, detail-oriented.</p>
-                <p>English: Capable of reading and understanding documents, writing professional emails, and developing internal process documentation.</p>
-            </ul>
-
-        </section>
-
-
-        <!-- <section class="experience" style="margin-top: 20px;">
-            <h2 class="title-green">PHẨM CHẤT CÁ NHÂN</h2>
-            <div class="cert">
                 <ul>
-                    <li>Tư duy phát triển, không ngừng học.</li>
-                    <li>Trung thực, trách nhiệm, cẩn thận trong công việc</li>
-                    <li>Làm việc chủ động, thiên hướng giải quyết vấn đề không đỗ lỗi.</li>
+                    <li style="list-style-type: none;"><strong>Assistant Manager - Gogi House (Golden Gate
+                            Group)</strong></li>
+                    <ul>
+                        <p>Managed daily restaurant operations ensuring 3S: Stock – Staff – Service.</p>
+                        <p>Recruited, trained, scheduled, and supervised staff to optimize performance.</p>
+                        <p>Monitored cost control, sales, inventory, and food material usage.</p>
+                        <p>Implemented promotional campaigns and collaborated with marketing to boost revenue.</p>
+                    </ul>
                 </ul>
-            </div>
-        </section> -->
-        <!-- 
-        <section class="experience" style="margin-top: 20px;">
-            <h2 class="title-green">SỞ THÍCH CÁ NHÂN</h2>
-            <div class="cert">
-                <ul>
-                    <li>Du lịch, nấu ăn.</li>
-                    <li>Thể thao: chạy bộ, bóng đá, tennis.</li>
-                </ul>
-            </div>
-        </section> -->
-    </div>
-</body>
 
-</html>
+            </section>
+
+
+            <section class="skills" style="margin-top: 30px; margin-bottom: 30px;">
+                <h2 class="title-green">SKILLS & STRENGTHS</h2>
+
+                <div class="cert" style="margin-top: 10px">
+                    <p class="title-green"><strong>Warehouse & Operations</strong></p>
+                </div>
+                <ul>
+                    <p>Inventory control & FIFO compliance.</p>
+                    <p>Warehouse operations & order fulfillment.</p>
+                    <p>Data accuracy & WMS/ERP reconciliation.</p>
+                    <p>Inventory analysis (turnover, cycle count accuracy, slow-moving SKUs, overstock,...)</p>
+                </ul>
+
+
+                <p class="title-green"><strong>Technical Skills</strong></p>
+                <ul>
+                    <p>Microsoft Office, Sapo, MISA, VMS, ERP.</p>
+                    <p>Power BI: DAX modeling, dashboard building, inventory analytics.</p>
+                </ul>
+
+                <p class="title-green" style="margin-top: 50px"><strong>Soft Skills & Professional Qualities</strong></p>
+                <ul>
+                    <p>Strong problem-solving and analytical mindset.</p>
+                    <p>Proactive, responsible, detail-oriented.</p>
+                    <p>English: Capable of reading and understanding documents, writing professional emails, and developing
+                        internal process documentation.</p>
+                </ul>
+
+            </section>
+
+
+            <!-- <section class="experience" style="margin-top: 20px;">
+                <h2 class="title-green">PHẨM CHẤT CÁ NHÂN</h2>
+                <div class="cert">
+                    <ul>
+                        <li>Tư duy phát triển, không ngừng học.</li>
+                        <li>Trung thực, trách nhiệm, cẩn thận trong công việc</li>
+                        <li>Làm việc chủ động, thiên hướng giải quyết vấn đề không đỗ lỗi.</li>
+                    </ul>
+                </div>
+            </section> -->
+            <!-- 
+            <section class="experience" style="margin-top: 20px;">
+                <h2 class="title-green">SỞ THÍCH CÁ NHÂN</h2>
+                <div class="cert">
+                    <ul>
+                        <li>Du lịch, nấu ăn.</li>
+                        <li>Thể thao: chạy bộ, bóng đá, tennis.</li>
+                    </ul>
+                </div>
+            </section> -->
+        </div>
+    </body>
+
+    </html>
