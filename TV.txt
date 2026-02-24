@@ -89,7 +89,7 @@
             <h2 class="title-green">KINH NGHIỆM LÀM VIỆC</h2>
             <div class="cert">
                 <p class="title-green"><strong>CÔNG TY TNHH SKYLASH VIETNAM</strong></p>
-                <p class="title-green" style="font-size:smaller">08/2022 đến 11/2025</p>
+                <p class="title-green" style="font-size:smaller">08/2022 đến 12/2025</p>
             </div>
             <ul>
                 <li style="list-style-type: none;"><strong>Warehouse & Inventory control</strong>
@@ -124,7 +124,7 @@
                 </ul>
                 <ul>
                     <li>Lãnh đạo đội nhóm & Báo cáo</li>
-                    <p>Quản lý và đào tạo đội ngũ 20–25 nhân viên, thúc đẩy tinh thần trách nhiệm và hiệu suất theo KPI.
+                    <p>Quản lý và đào tạo đội ngũ 20–25 nhân sự, thúc đẩy tinh thần trách nhiệm và hiệu suất theo KPI.
                     </p>
                     <p>Xây dựng kế hoạch vận hành hàng tháng, đánh giá nhân sự và đề xuất cải tiến.</p>
                     <p>Quản lý an toàn kho, PCCC và bảo trì tài sản.</p>
